@@ -1,3 +1,2 @@
 # ucenje
-Majhna sprememba
-Še ena sprememba
+Bo delalo?
