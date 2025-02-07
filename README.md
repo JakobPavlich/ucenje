@@ -1,2 +1,2 @@
 # ucenje
-Bo delalo?
+Bo delalo? Bo! Super.
